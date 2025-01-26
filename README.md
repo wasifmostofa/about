@@ -1,4 +1,9 @@
-[![MasterHead]("https://ibb.co.com/02nG4rx")](https://wasif.web.app)
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+        <img src="https://ibb.co.com/02nG4rx" alt="LinkedIn"/>
+    </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Wasif Mostofa</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
