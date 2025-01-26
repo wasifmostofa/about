@@ -1,4 +1,4 @@
-![Header]([(https://ibb.co.com/02nG4rx)](https://wasif.web.app)
+[![MasterHead](https://ibb.co.com/02nG4rx)](https://wasif.web.app)
 
 <h1 align="center">Hi 👋, I'm Wasif Mostofa</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
