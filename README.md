@@ -1,13 +1,7 @@
-<div align="center">
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
-        <img src="https://ibb.co.com/02nG4rx" alt="LinkedIn"/>
-    </a>
-</div>
 
 <h1 align="center">Hi 👋, I'm Wasif Mostofa</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
-<img align="right" alt="gif" width="400" src="https://sl.bing.net/h1svrbS8M9I"></img>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-mostofa1&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-mostofa1" /> </p>
 
