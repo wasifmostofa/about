@@ -101,7 +101,3 @@
   </a>
 </div>
 
-<audio controls>
-        <source src="https://github.com/wasifmostofa/about/blob/5d36a005c1c164d3ebffbd612723d8b8f8cee180/status.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-    </audio>
