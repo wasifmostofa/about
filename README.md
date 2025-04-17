@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://github.com/wasifmostofa/about/blob/2b53a963a263fbfa39eac52f43397e2fe8bdbc5f/NUX-Octodex-unscreen.gif"  />
+  <img height="200" src="https://github.com/wasifmostofa/about/blob/2b53a963a263fbfa39eac52f43397e2fe8bdbc5f/NUX-Octodex-unscreen.gif"  />
 </div>
 
 ###
